@@ -2,52 +2,54 @@ LonelyOutcasts Server Tools
 Path of Titans community server tools, Linux administration projects, and event infrastructure examples.
 
 About Me
-My name is Colton Eller, known in Path of Titans as FrothyWaffler.
+Hey, I’m Colton Eller, better known in Path of Titans as FrothyWaffler.
 
-I own and operate The Lonely Outcasts Path of Titans community server. What started as a small community project has grown into a hands-on learning experience in Linux administration, automation, event planning, troubleshooting, and community management.
+I’m the owner and operator of Lonely Outcasts, a Path of Titans community server built around community events, player interaction, and creating a fun experience for everyone who joins.
 
-Over time, I’ve built custom server tools, automated maintenance systems, event infrastructure, and quality-of-life features designed to improve the experience for my players. Running the server has given me practical experience solving real-world problems, learning new technologies, and maintaining a live gaming community.
+What started as a simple server has turned into a hands-on learning experience in Linux administration, automation, troubleshooting, event planning, and community management. Along the way I’ve built custom server tools, automated maintenance systems, event infrastructure, and quality-of-life features designed to improve the player experience.
 
 Experience
-Linux server administration
-Bash scripting
-Automated server maintenance
-Process management and troubleshooting
-Community management
-Event planning and execution
-Creator Mode event construction
-Server automation and workflow design
+Linux Server Administration
+Bash Scripting
+Server Automation & Maintenance
+Process Management & Troubleshooting
+Community Management
+Event Planning & Execution
+Creator Mode Event Construction
+Workflow Design & Documentation
 Current Projects
-The Lonely Outcasts Community Server
+Lonely Outcasts Community Server
 Fight Night Event System
 Linux Administration Tools
 Community Event Infrastructure
-Portfolio Sections
+Portfolio
 Event Infrastructure
 Examples of arenas, spectator areas, staging areas, community spaces, and event layouts built using Path of Titans Creator Mode.
 
 Linux Administration
-Examples of server automation, process management, restart systems, scheduled maintenance, and server operations documentation.
+Examples of server automation, restart systems, scheduled maintenance, process management, and server operations documentation.
 
-Future Goals
-My goal is to become a Path of Titans mod creator and eventually design a custom map built specifically for The Lonely Outcasts community.
+Modding Goals
+My goal is to become a Path of Titans mod creator and eventually design a custom map built specifically for the Lonely Outcasts community.
 
-While I am still early in the modding journey, I already have some familiarity with Unreal Engine and am actively learning Blender. I enjoy learning technical skills and tend to become highly focused on projects that interest me, allowing me to learn new tools and workflows quickly.
+While I’m still early in the modding journey, I already have some familiarity with Unreal Engine and am actively learning Blender. I enjoy learning technical skills and tend to become heavily invested in projects that interest me, which allows me to learn new tools and workflows quickly.
 
-My plan is to start with smaller projects that help me become comfortable with the Path of Titans modding pipeline while creating useful content for my own server. These early projects will focus on event assets, community-focused content, and simple mods that help me build experience with the tools and workflow.
+I plan to start small by creating simple server-focused mods that help me learn the Path of Titans modding pipeline while improving the experience for my players.
 
-During the learning process, any mods or maps I create will be used exclusively on The Lonely Outcasts server. This allows me to test, refine, and improve my work in a live environment without releasing unfinished or potentially problematic content to the public. My priority is learning the tools properly and producing quality content rather than rushing releases.
+During this learning phase, any mods or maps I create will remain exclusive to Lonely Outcasts. This allows me to test, refine, and improve my work in a live environment without releasing unfinished content to the public. My focus is on learning the tools properly and building quality content before sharing it with a wider audience.
 
-As my skills and confidence grow, I hope to expand beyond server-only projects and begin releasing polished mods, assets, and eventually maps that can be enjoyed by the wider Path of Titans community.
+As my skills and confidence grow, I hope to expand beyond server-only projects and begin releasing polished mods, assets, and eventually maps for the broader Path of Titans community.
 
 Planned Learning Path
-Continue learning Unreal Engine
-Learn Blender and 3D asset creation
+Continue Learning Unreal Engine
+Learn Blender & 3D Asset Creation
 Obtain Path of Titans Modding Access
 Create Simple Server-Focused Mods
-Develop Custom Assets and Event Props
-Thoroughly Test Content on The Lonely Outcasts Server
+Develop Custom Assets & Event Props
+Thoroughly Test Content on Lonely Outcasts
 Release Public Mods for the Community
-Design and Build a Custom Map for The Lonely Outcasts
+Design & Build a Custom Map for Lonely Outcasts
 Long-Term Vision
-The ultimate goal is to create a unique custom map for The Lonely Outcasts that supports large-scale community events, immersive environments, and gameplay experiences tailored specifically to the server’s player base. Once I am confident in my abilities and the quality of my work, I hope to contribute additional mods, assets, maps, and experiences to the broader Path of Titans community as well.
+The ultimate goal is to create a custom map designed specifically for Lonely Outcasts, supporting large-scale community events, unique environments, and gameplay experiences tailored to the server’s player base.
+
+Once I reach that point, I hope to contribute additional mods, assets, maps, and experiences to the wider Path of Titans community as well.
