@@ -6,7 +6,7 @@
 
 # About Me
 
-Hey, I'm **Colton Eller**, better known in Path of Titans as **FrothyWaffler**.
+Hey, I'm **Colton Eller**, better known in Path of Titans as **Frothy_Waffler**.
 
 I'm the owner and operator of **Lonely Outcasts**, a Path of Titans community server built around community events, player interaction, and creating a fun experience for everyone who joins.
 
