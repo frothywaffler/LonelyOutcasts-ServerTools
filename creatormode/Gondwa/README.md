@@ -1,41 +1,56 @@
 # Gondwa Fight Night Arena
 
-This project showcases a custom Fight Night arena designed and built from scratch using Path of Titans Creator Mode for the Lonely Outcasts community server.
+This project showcases a custom Fight Night arena that I built from scratch in the Salt Flats on Gondwa using Path of Titans Creator Mode.
 
-The arena was created specifically to support organized PvP events, tournaments, and community gatherings while maintaining clear player flow, spectator visibility, and event management capabilities.
+The arena was created for Lonely Outcasts community events, especially Fight Night, tournaments, and larger player gatherings.
 
-In addition to Creator Mode tools, the project incorporates community-created Creator Mode mods developed by other Path of Titans creators. By utilizing existing assets and systems, I was able to expand the arena's functionality while supporting the work of fellow community developers.
+I wanted to build a dedicated event space instead of using a random area on the map. The goal was to make something that felt intentional, organized, and easy for both players and staff to use during live events.
+
+---
+
+# Project Overview
+
+This arena was fully built using Creator Mode tools along with existing community-created Creator Mode mods from other Path of Titans creators.
+
+By sourcing and using those community-made assets, I was able to build a more complete arena while also getting more familiar with how Creator Mode mods can improve server events.
+
+This project is one of the reasons I want to eventually create my own Creator Mode mods for Lonely Outcasts and, later on, release quality content to the public once I am confident in my work.
 
 ---
 
 # Design Goals
 
-- Create a dedicated venue for Fight Night events
+- Build a dedicated Fight Night venue from scratch
+- Create a clear arena layout for organized PvP events
 - Separate fighters, spectators, and staff areas
-- Provide clear boundaries for combat and observation
-- Support large community gatherings
-- Improve event organization and administration
+- Improve player movement and event flow
+- Provide food and water access for participants
+- Create a recognizable event space for Lonely Outcasts
+- Support larger community gatherings
 
 ---
 
 # Features
 
 - Custom-built arena layout
-- Dedicated spectator viewing areas
+- Dedicated fighting area
+- Spectator viewing areas
 - Staff observation and administration positions
 - Player staging and preparation areas
 - Food and water access points
-- Winner's platform and event presentation area
+- Winner's platform and presentation area
 - Community gathering spaces
-- Integration of community-created Creator Mode assets and mods
+- Use of community-created Creator Mode assets and mods
 
 ---
 
-# Purpose
+# Why I Built It
 
-The arena was designed to provide a structured environment for community events while improving organization, visibility, and overall event flow.
+Fight Night events quickly became one of the more exciting things on Lonely Outcasts, so I wanted a proper space that could support them.
 
-The project focused on balancing functionality, accessibility, and player experience while creating a recognizable venue for Lonely Outcasts events.
+The arena was designed to make events smoother, easier to manage, and more enjoyable for players. Instead of people standing wherever, entering from every direction, or getting mixed up during events, the space gives everyone a clear place to be.
+
+The goal was to make the arena feel like an actual event venue instead of just a temporary setup.
 
 ---
 
