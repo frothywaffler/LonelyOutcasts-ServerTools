@@ -1,10 +1,10 @@
 # Creator Mode Portfolio
 
-This section contains examples of Creator Mode projects built and modified for the Lonely Outcasts Path of Titans community server.
+This folder contains Creator Mode projects built or modified for the Lonely Outcasts Path of Titans community server.
 
-These projects showcase my experience designing event spaces, improving player flow, organizing community activities, and creating functional environments for large-scale player events.
+These projects show my experience with event planning, arena layout, player flow, spectator areas, staff management areas, and building functional spaces for live community events.
 
-While my primary focus has been operating and maintaining a successful community server, Creator Mode has allowed me to explore level design, event infrastructure, environmental storytelling, and gameplay-focused construction.
+Creator Mode has been one of the biggest ways I have been able to create content for my server before having access to full modding tools. It has also helped me understand what makes an area work well for players during actual events.
 
 ---
 
@@ -12,15 +12,15 @@ While my primary focus has been operating and maintaining a successful community
 
 ## Gondwa Fight Night Arena
 
-A custom arena built from scratch using Creator Mode assets and community-created Creator Mode mods.
+A Fight Night arena built from scratch in the Salt Flats on Gondwa using Creator Mode tools and community-created Creator Mode mods.
 
-This project demonstrates arena design, player flow planning, spectator accommodations, staff observation areas, and event-focused infrastructure.
+This project shows my ability to plan and build an event space from the ground up.
 
 ## New Era Fight Night Arena
 
-An existing arena modified and expanded to better support community events.
+An existing arena on the New Era map that I modified and improved for Lonely Outcasts events.
 
-This project demonstrates environmental enhancement, functional improvements, player management considerations, and adapting existing spaces for new gameplay purposes.
+This project shows my ability to take an existing space and make it more functional for organized community events.
 
 ---
 
@@ -30,27 +30,18 @@ This project demonstrates environmental enhancement, functional improvements, pl
 - Arena Design
 - Event Infrastructure Planning
 - Player Flow Design
-- Environmental Detailing
+- Spectator Area Planning
+- Staff Area Planning
 - Community Event Management
 - Gameplay-Focused Problem Solving
-- Integration of Community-Created Assets
+- Use of Community-Created Creator Mode Assets
 
 ---
 
-# Why I Build These Projects
+# Why These Projects Matter
 
-Running Lonely Outcasts has given me the opportunity to create and host community events that bring players together in unique ways.
+Fight Night events became a big part of Lonely Outcasts, and I wanted dedicated areas that felt organized instead of just using random open spots on the map.
 
-Many of these projects were developed to solve real problems encountered during live events, including crowd management, spectator visibility, participant organization, and overall event flow.
+These builds were made to solve real event problems like crowd control, clear entry points, spectator visibility, participant organization, food and water access, and staff oversight.
 
-By designing spaces around actual gameplay needs, I have gained valuable experience creating environments that are both functional and enjoyable for players.
-
----
-
-# Looking Ahead
-
-My long-term goal is to transition from Creator Mode projects into full Path of Titans mod development.
-
-I am currently learning the tools and workflows necessary for mod creation, including Unreal Engine and Blender, with the eventual goal of creating custom assets, gameplay-focused mods, and a fully custom map designed specifically for the Lonely Outcasts community.
-
-Until I reach that level of proficiency, my focus remains on learning, improving, and testing ideas through Creator Mode projects and community events.
+The goal was always to make events easier to manage while giving players a better experience.
