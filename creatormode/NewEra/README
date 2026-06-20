@@ -1,27 +1,51 @@
 # New Era Fight Night Arena
 
-This project showcases modifications and event infrastructure added to a pre-existing arena on the New Era map.
+This project showcases modifications and event infrastructure added to an existing arena on the New Era map for the Lonely Outcasts community server.
 
-The original arena structure was created by the New Era map developer, Noa. My contribution focused on adapting the space for community events hosted by Lonely Outcasts.
+While the original arena structure was created by the New Era map developer, I adapted and expanded the space to better support organized PvP events, tournaments, and community gatherings hosted by Lonely Outcasts.
 
-## Modifications
+The goal was to transform an already impressive arena into a fully functional event venue by improving player flow, event management, accessibility, and overall usability during large community events.
 
-- Added decorative elements throughout the arena
+---
+
+# Design Goals
+
+- Improve organization during Fight Night events
+- Create clear entry and exit points
+- Improve player movement and event flow
+- Add resources and infrastructure for participants
+- Enhance the atmosphere and visual identity of the venue
+- Adapt the arena for large community gatherings
+
+---
+
+# Modifications
+
+- Added decorative elements throughout the venue
 - Added food and water sources for event participants
-- Constructed a concrete perimeter fence around the entire arena
+- Constructed a concrete perimeter fence around the arena
 - Created a controlled choke-point entrance and exit
-- Improved spectator and participant flow
-- Adapted the area for organized Fight Night events
+- Improved player flow and event organization
+- Enhanced the arena's functionality for community events
+- Added supporting infrastructure for spectators, staff, and participants
 
-## Purpose
+---
 
-The goal of these modifications was to transform an existing arena into a functional event venue capable of supporting large community gatherings while improving organization, player movement, and event management.
+# Purpose
 
-## Skills Demonstrated
+The purpose of this project was to take an existing arena and tailor it to the specific needs of the Lonely Outcasts community.
 
-- Event planning
-- Player flow design
-- Arena modification
-- Community event infrastructure
-- Creator Mode construction
-- Environmental detailing
+Rather than focusing solely on aesthetics, the modifications were designed to improve how players interact with the environment during organized events. Special attention was given to crowd management, participant movement, resource placement, and creating a clear distinction between event spaces and surrounding areas.
+
+---
+
+# Skills Demonstrated
+
+- Event Planning
+- Arena Modification & Improvement
+- Player Flow Design
+- Environmental Detailing
+- Creator Mode Construction
+- Community Event Infrastructure
+- Problem Solving Through Gameplay-Focused Design
+- Adapting Existing Spaces for New Purposes
