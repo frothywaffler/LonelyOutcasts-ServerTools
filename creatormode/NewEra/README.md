@@ -1,51 +1,64 @@
 # New Era Fight Night Arena
 
-This project showcases modifications and event infrastructure added to an existing arena on the New Era map for the Lonely Outcasts community server.
+This project showcases modifications and event infrastructure I added to an existing arena on the New Era map for the Lonely Outcasts community server.
 
-While the original arena structure was created by the New Era map developer, I adapted and expanded the space to better support organized PvP events, tournaments, and community gatherings hosted by Lonely Outcasts.
+The original arena structure was created by the New Era map developer. My work focused on adapting that space for Lonely Outcasts events and making it function better as an organized Fight Night venue.
 
-The goal was to transform an already impressive arena into a fully functional event venue by improving player flow, event management, accessibility, and overall usability during large community events.
+The arena itself was already there, but I went through and added the details, structure, and flow needed to make it work better for live community events.
+
+---
+
+# Project Overview
+
+For this project, I focused on improving the arena's usability rather than claiming the original arena as my own build.
+
+I added decorations, food, water, and supporting infrastructure to make the space more useful for players. I also built a concrete fence around the arena with a clear choke-point entrance and exit so players could easily understand where to go during events.
+
+The goal was to take an existing arena and make it feel more organized, controlled, and ready for Lonely Outcasts Fight Night events.
 
 ---
 
 # Design Goals
 
-- Improve organization during Fight Night events
-- Create clear entry and exit points
-- Improve player movement and event flow
-- Add resources and infrastructure for participants
-- Enhance the atmosphere and visual identity of the venue
-- Adapt the arena for large community gatherings
+- Improve the existing arena for Fight Night events
+- Create a clear entrance and exit point
+- Make player movement easier to understand
+- Improve crowd control during events
+- Add food and water for participants
+- Add decorations and event atmosphere
+- Make the arena easier for staff to manage
 
 ---
 
 # Modifications
 
-- Added decorative elements throughout the venue
+- Added decorative elements throughout the arena
 - Added food and water sources for event participants
-- Constructed a concrete perimeter fence around the arena
-- Created a controlled choke-point entrance and exit
+- Built a concrete perimeter fence around the arena
+- Created a clear choke-point entrance and exit
 - Improved player flow and event organization
-- Enhanced the arena's functionality for community events
-- Added supporting infrastructure for spectators, staff, and participants
+- Added infrastructure to support spectators, staff, and participants
+- Adapted the space for organized Lonely Outcasts events
 
 ---
 
-# Purpose
+# Why I Modified It
 
-The purpose of this project was to take an existing arena and tailor it to the specific needs of the Lonely Outcasts community.
+The New Era arena was already a strong location, but for actual server events I wanted it to be more obvious how players were supposed to enter, exit, watch, and participate.
 
-Rather than focusing solely on aesthetics, the modifications were designed to improve how players interact with the environment during organized events. Special attention was given to crowd management, participant movement, resource placement, and creating a clear distinction between event spaces and surrounding areas.
+Without clear boundaries, players can spread out, enter from random directions, or make events harder to manage. The fencing and choke-point entrance helped give the arena a more controlled layout and made the event space easier to understand.
+
+This project shows how I can take an existing space and improve it for a specific gameplay purpose.
 
 ---
 
 # Skills Demonstrated
 
 - Event Planning
-- Arena Modification & Improvement
+- Arena Modification
 - Player Flow Design
+- Crowd Control Planning
 - Environmental Detailing
 - Creator Mode Construction
 - Community Event Infrastructure
-- Problem Solving Through Gameplay-Focused Design
 - Adapting Existing Spaces for New Purposes
